@@ -3,3 +3,4 @@ description: MoDeX memory for this repo
 alwaysApply: true
 ---
 Memory Key: github.com/parikshitkhoker/modex-test-agentic-ai
+load_context at start , log_decision after choices , compress_context at end 
